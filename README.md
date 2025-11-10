@@ -9,7 +9,7 @@
 
 📫 How to reach me **jkkeerthana2002@gmail.com**
 
-📄 Know about my experiences [My Resume][file:///C:/GROW%20SKILL%20IT%20-%20AUTOMATION%20TESTING%20COURSE/Keerthana%20JK-QA%20resume.pdf]
+📄 Know about my experiences [My Resume]("file:///C:/GROW%20SKILL%20IT%20-%20AUTOMATION%20TESTING%20COURSE/Keerthana%20JK-QA%20resume.pdf")
 
 ⚡ Fun fact **I love finding bugs more than coding them!**
 
