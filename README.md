@@ -5,15 +5,14 @@
  <h3 align="center">A passionate and detail-oriented Software Tester from India, skilled in Manual and Automation Testing to ensure high-quality and reliable applications.</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
-- 🌱 I’m currently learning **Backend Development, Database Management**
+💬 Ask me about **Manual Testing, Selenium, Playwright, and TestNG**
 
-- 💬 Ask me about **React**
+📫 How to reach me **jkkeerthana2002@gmail.com**
 
-- 📫 How to reach me **jkkeerthana10@gmail.com**
+📄 Know about my experiences [My Resume] 
 
-- 📄 Know about my experiences  https://drive.google.com/file/d/1BYKemRccVPxEiZl6DB1tQqHsK_sZa5zh/view?usp=drivesdk
+⚡ Fun fact **I love finding bugs more than coding them!**
 
-- ⚡ Fun fact **I believe I’m a bundle of humor and positive vibes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
