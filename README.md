@@ -1,8 +1,8 @@
   [![MasterHead](https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_1080/c_scale,q_auto,f_auto,fl_lossy/What_is_Software_Testing_Exploring_the_Types_Importance_and_Best_Practices_aed3c0628b.webp?_a=DAJCwlWIZAA0)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Keerthana</h1>
-<h3 align="center">A passionate and innovative Front-end developer from India, crafting engaging and user-friendly web experiences.</h3>
+<h1 align="center">Hi 👋, I'm Keerthana J K</h1>
+ <h3 align="center">A passionate and detail-oriented Software Tester from India, skilled in Manual and Automation Testing to ensure high-quality and reliable applications.</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 - 🌱 I’m currently learning **Backend Development, Database Management**
