@@ -1,4 +1,4 @@
-  [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+  [![MasterHead](https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_480/c_scale,q_auto,f_auto,fl_lossy/What_is_Software_Testing_Exploring_the_Types_Importance_and_Best_Practices_aed3c0628b.webp?_a=DAJCwlWIZAA0)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
