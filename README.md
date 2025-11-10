@@ -5,7 +5,7 @@
  <h3 align="center">A passionate and detail-oriented Software Tester from India, skilled in Manual and Automation Testing to ensure high-quality and reliable applications.</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
-💬 Ask me about **Manual Testing, Selenium, Playwright, and TestNG**
+💬 Ask me about **Manual Testing, Selenium, Playwright, API Testing, TestNG**
 
 📫 How to reach me **jkkeerthana2002@gmail.com**
 
