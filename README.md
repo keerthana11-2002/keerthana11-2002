@@ -12,7 +12,7 @@
  Know about my projects : [Portfolio](https://portfolio1-7nmm.vercel.app/#)
 
 
-📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/1btZfusWG9BJD6KnAbqd5ViBLmfBfr5Lm/view"]
+📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/16bHNHeKx6vj4aLtKnHyJxwMgqZ4Cpv-O/view?usp=drive_link"]
 
 ⚡ Fun fact **I love finding bugs more than coding them!**
 
