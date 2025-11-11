@@ -9,7 +9,7 @@
 
 📫 How to reach me **jkkeerthana2002@gmail.com**
 
- Know about my projects : [Portfolio](http://localhost:5173/)
+ Know about my projects : [Portfolio](https://portfolio1-7nmm.vercel.app/#)
 
 
 📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/1btZfusWG9BJD6KnAbqd5ViBLmfBfr5Lm/view"]
