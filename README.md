@@ -12,9 +12,9 @@
  Know about my projects : [Portfolio](https://portfolio1-7nmm.vercel.app/#)
 
 
-📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/1VvI8a7QvPTXPrZk3DO9EyzMMDBnV9uzi/view?usp=sharing"]
+📄 Know about my experiences [My Resume]("https://drive.google.com/file/d/1VvI8a7QvPTXPrZk3DO9EyzMMDBnV9uzi/view?usp=sharing")
 
-ISTQB Certificate[Certification]["https://drive.google.com/file/d/1pjJObNT7V6qqrxM0OXsQtSQQ20yE5W9b/view?usp=sharing"]
+ISTQB Certificate[Certification]("https://drive.google.com/file/d/1pjJObNT7V6qqrxM0OXsQtSQQ20yE5W9b/view?usp=sharing")
 
 ⚡ Fun fact **I love finding bugs more than coding them!**
 
