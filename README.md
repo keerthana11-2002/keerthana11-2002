@@ -2,17 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Keerthana J K</h1>
- <h3 align="center">A passionate and detail-oriented Software Tester from India, skilled in Manual and Automation Testing to ensure high-quality and reliable applications.</h3>
+ <h3 align="center">I'm ISTQB CTFL certified QA Tester, passionate and detail-oriented Software Tester from India, skilled in Manual and Automation Testing to ensure high-quality and reliable applications.</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
-💬 Ask me about **Manual Testing, Selenium, Playwright, API Testing, TestNG**
+💬 Ask me about **Manual Testing, Java, Python, Selenium, Playwright, API Testing, TestNG**
 
 📫 How to reach me **jkkeerthana2002@gmail.com**
 
  Know about my projects : [Portfolio](https://portfolio1-7nmm.vercel.app/#)
 
 
-📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/16bHNHeKx6vj4aLtKnHyJxwMgqZ4Cpv-O/view?usp=drive_link"]
+📄 Know about my experiences [My Resume]["https://drive.google.com/file/d/1pjJObNT7V6qqrxM0OXsQtSQQ20yE5W9b/view?usp=sharing"]
 
 ⚡ Fun fact **I love finding bugs more than coding them!**
 
